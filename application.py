@@ -6,3 +6,6 @@ print(add(20, 30))
 def sub(x, y):
   return x - y
 print(sub(2, 3))
+
+print("hello")
+
